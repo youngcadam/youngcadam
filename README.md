@@ -1,6 +1,9 @@
+### DISCLAIMER: I AM MUCH MORE ACTIVE ON [GITLAB](https://gitlab.com/youngcadam)
+
 - 👋 Hi, I’m @youngcadam
 - 🌱 I’m currently learning Dev Ops and System Design
 - 📫 How to reach me youngcadam at gmail dot com
+
 
 <!---
 youngcadam/youngcadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
