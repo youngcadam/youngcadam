@@ -1,4 +1,4 @@
-### Soft
+### Hi
 
 - 👋 Hi, I’m @youngcadam
 - 🌱 I’m currently building an SPA in [nuxt.js](https://nuxt.com/) on AWS Amplify.
