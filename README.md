@@ -1,7 +1,7 @@
-### DISCLAIMER: I AM MUCH MORE ACTIVE ON [GITLAB](https://gitlab.com/youngcadam)
+### Soft
 
 - 👋 Hi, I’m @youngcadam
-- 🌱 I’m currently building a platform in [nuxt.js](https://nuxt.com/) on AWS Amplify.
+- 🌱 I’m currently building an SPA in [nuxt.js](https://nuxt.com/) on AWS Amplify.
 - 📫 How to reach me youngcadam at gmail dot ucla dot edu
 
 
