@@ -1,8 +1,8 @@
 ### DISCLAIMER: I AM MUCH MORE ACTIVE ON [GITLAB](https://gitlab.com/youngcadam)
 
 - 👋 Hi, I’m @youngcadam
-- 🌱 I’m currently learning Dev Ops and System Design
-- 📫 How to reach me youngcadam at gmail dot com
+- 🌱 I’m currently building a platform in [nuxt.js](https://nuxt.com/) on AWS Amplify.
+- 📫 How to reach me youngcadam at gmail dot ucla dot edu
 
 
 <!---
