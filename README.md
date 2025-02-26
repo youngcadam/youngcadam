@@ -1,8 +1,8 @@
 ### Hi
 
 - 👋 Hi, I’m @youngcadam
-- 🌱 I’m currently building an SPA in [nuxt.js](https://nuxt.com/) on AWS Amplify.
-- 📫 How to reach me youngcadam at g dot ucla dot edu
+- 🌱 I like building things.
+- 📫 How to reach me youngcadam at gmail dot com
 
 
 <!---
